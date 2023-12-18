@@ -1,0 +1,9 @@
+Task - Using publically available data for the national factors that impact supply and demand of homes in US, build a model to study the effect of these variables on home prices.
+
+All the work was done in jupyter notebook. Data is prepared in one of the notebooks and the analysis and model building is done in a separate notebook.
+
+The notebooks can be found here.
+
+
+
+
